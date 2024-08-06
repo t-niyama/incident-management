@@ -1,0 +1,7 @@
+name;code;descr;criticality
+N;N;New;3
+A;A;Assigned;2
+I;I;In Process;2
+O;O;On Hold;3
+R;R;Resolved;2
+C;C;Closed;4
